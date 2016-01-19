@@ -1,10 +1,7 @@
+# RxJS
 
-# JavaScript
+政倉 智
 
-From the terminal, pop in:
+2016/01/23 (土)
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+LINQ とか勉強会
